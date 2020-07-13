@@ -2,7 +2,7 @@ name: timewheel
 description: A customizable timewheel to receive user input for selected time value.
 version: 0.0.1
 author: Gideon Peters <gideonpeters85@gmail.com>
-homepage:
+homepage: https://github.com/gideonpeters/timewheel
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
